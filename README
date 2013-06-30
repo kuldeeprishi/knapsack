@@ -1,0 +1,13 @@
+KNAPSACK OPTIMIZATION
+==========================
+
+3 Solution to the most commmon 1/0 knapsack problem
+
+knapsack_01:  uses branching to find optimal solution
+
+knapsack_02:  uses a lookup table to find the optimal solution
+
+knapsack_03:  uses branch and bound to find the optimal solution
+
+
+Various Test cases are given to test the above implementation
